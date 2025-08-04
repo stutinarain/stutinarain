@@ -1,12 +1,9 @@
 # Hi, I'm Stuti! 
 
-I’m a final year engineering student at Indira Gandhi Delhi Technical University for Women.
-
-## 🚀 About Me
-
-- ❤️ I am passionate about Data Science and Analytics.
-- 👩🏻‍💻 I love exploring AI and LLM tools.
-- ⚡ I am deeply fascinated by Human-Computer Interaction and User Design! 
+- I’m a final year engineering student at Indira Gandhi Delhi Technical University for Women.
+- I am passionate about Data Science and Analytics.
+- I love exploring AI and LLM tools.
+- I am deeply fascinated by Human-Computer Interaction and User Design! 
 
 ## 🛠️ Languages & Tools
 
