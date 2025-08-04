@@ -29,6 +29,3 @@ I’m a final year engineering student at Indira Gandhi Delhi Technical Universi
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stutinarain/)
 
----
-
-⭐️ From [stutinarain](https://github.com/stutinarain)
